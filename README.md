@@ -1,7 +1,7 @@
 ## Olá! Eu sou Talysson Amorim
 
-- 👀 Minha área de interesse e Front-end
-- 🌱 Atualmente estudando Javascript
+- 👀 Minha área de interesse é Front-end
+- 🌱 Atualmente estou estudando Javascript
 
 <div align="center">
   <a href="https://github.com/TalyssonAmorim">
