@@ -64,7 +64,7 @@
   <a href="https://discord.gg/v3wrgDNu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="href="mailto:talysson.dra@gmail.com">" target="_blank">
+  <a href="mailto:talysson.dra@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=cf0e0e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
