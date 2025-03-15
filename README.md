@@ -69,8 +69,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/TalyssonAmorim/TalyssonAmorim/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
